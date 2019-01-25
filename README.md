@@ -6,3 +6,4 @@
   --- half-length photo -> passport photo
 ### Reconstructing 3D facial photo
   --- Facial feature locating and depth mapping
+[embed]https://github.com/jqu224/3D-Facial-Modeling/blob/master/3d.pdf[/embed]
